@@ -11,9 +11,9 @@ Beim Bauen ist eine Intenetverbindung erforderling, weil Maven die notwendigen D
 
 ## Start
 
-sudo service kafka start
+Wenn ein lokaler Kafka Server installiert ist kann man auch diesen verwenden statt mit mvn docker:run den Docker container zu starten.
 
-In der aktuellen Konfiguration wird angenommen, dass der Server unter localhost:9092 läuft.
+sudo service kafka start
 
 ## Test Kafka Server
 
