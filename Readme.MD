@@ -4,7 +4,6 @@ Ein Teil der Implementierung stammt von https://memorynotfound.com/spring-kafka-
 
 ## Voraussetzungen
 
-* Eine Kafka Installation ( https://kafka.apache.org )
 * Maven
 * JDK 8
 
